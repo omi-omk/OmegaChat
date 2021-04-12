@@ -17,7 +17,6 @@ firebase.initializeApp({
   messagingSenderId: "1814892196",
   appId: "1:1814892196:web:047ab1366bf524b5e0e031",
   measurementId: "G-PY4BSQE88Y",
-  authDomain: 'auth.omegachat.netlify.app'
 
 })
 
